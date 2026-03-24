@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Saytlar</title>
+</head>
+<body>
+
+    <h2>Kúndelikli paydalanatuǵın saytlari</h2>
+
+    <ul>
+        <li><a href="https://www.google.com" target="_blank">Google</a></li>
+        <li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
+    </ul># tapsirma
